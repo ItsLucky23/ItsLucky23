@@ -27,7 +27,6 @@ Hi 👋 My name is Mathijs
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     --->
   
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg](https://www.bing.com/images/search?view=detailV2&ccid=o7c7ftXC&id=F26B663EBCAFDC97565D53D54F8EBA7B97EA97CE&thid=OIP.o7c7ftXCLdQDsfE9NkWCvwHaGb&mediaurl=https%3a%2f%2fs3.amazonaws.com%2fmedia-p.slid.es%2fuploads%2f275559%2fimages%2f6637674%2ftailwind.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a3b73b7ed5c22dd403b1f13d364582bf%3frik%3dzpfql3u6jk%252fVUw%26pid%3dImgRaw%26r%3d0&exph=914&expw=1053&q=tailwind+css&simid=607988690597928297&FORM=IRPRST&ck=EC27344697518DA48386A588E16BDBA9&selectedIndex=4&itb=0&ajaxhist=0&ajaxserp=0)" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
       <!---
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
