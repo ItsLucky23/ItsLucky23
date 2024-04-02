@@ -1,10 +1,10 @@
-Hi 👋 My name is Tristán
+Hi 👋 My name is Mathijs
 =====================
-<a href="https://github.com/AceLord23">Aka AceLord23#8021</a>
+<a href="https://github.com/ItsLucky23"></a>
 =====================
 
 * 🌍  I'm based in Nederland, Limburg
-* ✉️  You can contact me at [tristan.nouwens@student.gildeopleidingen.nl](mailto:tristan.nouwens@student.gildeopleidingen.nl)
+* ✉️  You can contact me at [mathijsvanmelick3@gmail.com](mailto:mathijsvanmelick3@gmail.com)
 * 🧠  I'm learning Software Development at Gildeopleidingen
 <!--- * 🖥️  See my portfolio at [my website](http://mrdeurmat.dev/) --->
 <!--- * 🤝  I'm open to collaborating on FiveM Projects --->
