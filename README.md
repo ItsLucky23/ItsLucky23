@@ -20,6 +20,18 @@ Hi 👋 My name is Mathijs
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> -->
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/html.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/css.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/tailwind.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/js.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/vue.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/react.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/node.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/php.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/laravel.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/eloquent.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/mysql.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/json.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/lua.png" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 ### Socials
