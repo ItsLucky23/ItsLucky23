@@ -12,15 +12,15 @@ Hi 👋 My name is Mathijs
 
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="img/javascript.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"><img src="img/typescript.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="img/nodejs.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="img/react.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="img/mysql.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="img/prisma.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="img/tailwind.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="img/lua.png" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="img/github.png" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 ### Socials
