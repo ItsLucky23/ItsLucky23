@@ -12,9 +12,10 @@ Hi 👋 My name is Mathijs
 
 
 <p align="left">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="img/lua.png" width="36" height="36" alt="Lua" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"></a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="img/php.png" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.org/" target="_blank" rel="noreferrer"><img src="img/laravel.png" width="36" height="36" alt="Laravel" /></a>
